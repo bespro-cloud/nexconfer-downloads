@@ -21,5 +21,9 @@ NexConfer is an enterprise-grade video conferencing platform focused on security
 ---
 
 ## Download (public release)
-Public release assets are published under **Releases**. Example direct download URL format:
+Public release assets are published under **Releases**. direct download URL format: [![Download Setup](https://img.shields.io/badge/📥%20Download-Nexconfer%20Setup%20v1.0.0-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://github.com/bespro-cloud/nexconfer-downloads/releases/download/v1.0.0/NexconferSetupV1_0_0.zip)
+
+
+<!-- With custom emoji and styling -->
+[![Downloads](https://img.shields.io/github/downloads/bespro-cloud/nexconfer-downloads/latest/total?style=for-the-badge&label=Downloads&color=brightgreen&logo=download)](https://github.com/bespro-cloud/nexconfer-downloads/releases)
 
