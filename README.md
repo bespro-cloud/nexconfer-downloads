@@ -23,6 +23,5 @@ NexConfer is an enterprise-grade video conferencing platform focused on security
 
 
 
-<!-- With custom emoji and styling -->
-[![Downloads](https://img.shields.io/github/downloads/bespro-cloud/nexconfer-downloads/latest/total?style=for-the-badge&label=Downloads&color=brightgreen&logo=download)](https://github.com/bespro-cloud/nexconfer-downloads/releases)
+
 
